@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Ion.Istrati/.dotnet/store/|arch|/|tfm|",
+      "/Users/Ion.Istrati/.nuget/packages"
+    ]
+  }
+}
